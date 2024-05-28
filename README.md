@@ -41,6 +41,9 @@ npm start
 UploadContainer
 A styled component for the image upload section.
 
+Header
+Contained logo and icons
+
 Canvas
 The main component that contains the canvas element and handles drawing logic.
 ## State Variables
